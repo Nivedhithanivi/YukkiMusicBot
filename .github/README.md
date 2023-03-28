@@ -14,7 +14,7 @@
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 
-## Deploy to Heroku 
+## removed heroku support 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nivedhithanivi/YukkiMusicBot)
 
